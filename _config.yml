@@ -1,18 +1,18 @@
-typography_spectrum: 0.1251194360665977
+typography_spectrum: 0.18564523034729064
 color:
-  brandStrength: 0.8302457649260759
-  lightness: 0.09417028771713376
-  saturation: 0.9690521075390279
-  rhythmicContrast: 0.8156062075868249
+  brandStrength: 0.154240160016343
+  lightness: 0.10820031282491982
+  saturation: 0.8897647224366665
+  rhythmicContrast: 0.3168975533917546
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
 opengraph:
   image: null
-layout_spectrum: 0.5612857467494905
+layout_spectrum: 0.5543544143438339
 author:
   name: Philipp Schmalen
   email: philippschmalen@gmail.com
