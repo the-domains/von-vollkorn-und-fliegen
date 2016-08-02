@@ -4,8 +4,15 @@
         <description><![CDATA[Volles Korn voraus]]></description>
         <link>https://thegrid.ai/von-vollkorn-und-fliegen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 23:05:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 23:10:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/von-vollkorn-und-fliegen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Flashbang]]></title>
+            <description><![CDATA[<article><h1>Flashbang</h1><p>Auf die letzten Tage in Bonn scheint die Sonne bei uns rein. Fenster auf, damit sie den Nebel besser fluten kann.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af33a361-b072-45a7-ab63-2983a9f18c28.jpg"></article>]]></description>
+            <link>https://thegrid.ai/von-vollkorn-und-fliegen/flashbang/index.html</link>
+            <guid isPermaLink="false">68e2c8f6-72a3-45af-9d2d-92a818516cb0</guid>
+            <pubDate>Tue, 02 Aug 2016 23:10:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fliegen Fliegen Fliegen hinterher.]]></title>
             <description><![CDATA[<article><h1>Fliegen Fliegen Fliegen hinterher.</h1><p>Bescheiden geben sich meine Eltern zurzeit nicht gerade. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96b747cc-962b-4697-8e0a-556c995d1eae.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://soundcloud.com/wg-fuenf</link>
             <guid isPermaLink="false">4ba1db01-c786-49fa-a300-1ae414edae11</guid>
             <pubDate>Tue, 02 Aug 2016 22:21:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flashbang]]></title>
-            <description><![CDATA[<article><h1>Flashbang</h1><p>Auf die letzten Tage in Bonn scheint es bei uns rein. Fenster werden aufgemacht, so kann die Sonne besser rein.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af33a361-b072-45a7-ab63-2983a9f18c28.jpg"></article>]]></description>
-            <link>https://thegrid.ai/von-vollkorn-und-fliegen/flashbang/index.html</link>
-            <guid isPermaLink="false">68e2c8f6-72a3-45af-9d2d-92a818516cb0</guid>
-            <pubDate>Fri, 29 Jul 2016 21:54:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
