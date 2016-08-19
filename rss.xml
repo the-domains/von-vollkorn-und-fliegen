@@ -2,21 +2,28 @@
     <channel>
         <title><![CDATA[Smållen in Hong Kong]]></title>
         <description><![CDATA[Smållen in Hong Kong]]></description>
-        <link>https://thegrid.ai/von-vollkorn-und-fliegen/</link>
+        <link>http://smalleninhongkong.de/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 05:48:51 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/von-vollkorn-und-fliegen/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Aug 2016 06:10:28 GMT</lastBuildDate>
+        <atom:link href="http://smalleninhongkong.de/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WG Fünf]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2bdcc2d-8f6a-407f-9c71-bb9d604f25ba.jpg">]]></description>
+            <link>https://soundcloud.com/wg-fuenf</link>
+            <guid isPermaLink="false">c9a5fbbb-d9a2-4aba-bb0b-66a3d9c5a770</guid>
+            <pubDate>Fri, 19 Aug 2016 06:10:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fliegen Fliegen Fliegen hinterher.]]></title>
             <description><![CDATA[<article><h1>Fliegen Fliegen Fliegen hinterher.</h1><p>Bescheiden geben sich meine Eltern zurzeit nicht gerade.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96b747cc-962b-4697-8e0a-556c995d1eae.jpg"></article>]]></description>
-            <link>https://thegrid.ai/von-vollkorn-und-fliegen/fliegen-fliegen-fliegen-hinterher/index.html</link>
+            <link>http://smalleninhongkong.de/fliegen-fliegen-fliegen-hinterher/index.html</link>
             <guid isPermaLink="false">75d1915b-7c11-42bf-be69-323f78cf680d</guid>
             <pubDate>Wed, 03 Aug 2016 12:42:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flashbang]]></title>
             <description><![CDATA[<article><h1>Flashbang</h1><p>Auf die letzten Tage in Bonn scheint die Sonne bei uns rein. Fenster auf, damit sie den Nebel besser fluten kann.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af33a361-b072-45a7-ab63-2983a9f18c28.jpg"></article>]]></description>
-            <link>https://thegrid.ai/von-vollkorn-und-fliegen/flashbang/index.html</link>
+            <link>http://smalleninhongkong.de/flashbang/index.html</link>
             <guid isPermaLink="false">68e2c8f6-72a3-45af-9d2d-92a818516cb0</guid>
             <pubDate>Tue, 02 Aug 2016 23:10:39 GMT</pubDate>
         </item>
