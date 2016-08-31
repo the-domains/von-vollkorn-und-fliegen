@@ -1,4 +1,5 @@
-typography_spectrum: 0.18564523034729064
+layout_spectrum: 0.5543544143438339
+typography_spectrum: 0.3085787179879844
 color:
   brandStrength: 0.154240160016343
   lightness: 0.10820031282491982
@@ -12,7 +13,6 @@ color:
     - '#BD4932'
 opengraph:
   image: null
-layout_spectrum: 0.5543544143438339
 author:
   name: Philipp Schmalen
   email: philippschmalen@gmail.com
